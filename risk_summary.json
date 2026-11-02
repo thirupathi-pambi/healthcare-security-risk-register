@@ -1,0 +1,18 @@
+{
+  "total": 5,
+  "by_status": {
+    "open": 2,
+    "in_progress": 2,
+    "mitigated": 1
+  },
+  "by_severity": {
+    "high": 3,
+    "low": 1,
+    "medium": 1
+  },
+  "open_high_risks": [
+    "R001",
+    "R002",
+    "R004"
+  ]
+}
