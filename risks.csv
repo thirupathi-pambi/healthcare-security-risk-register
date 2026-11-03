@@ -1,0 +1,6 @@
+risk_id,area,finding,likelihood,impact,status,owner_role
+R001,identity,Inactive accounts need review,4,4,open,IT Admin
+R002,endpoint,Encryption evidence missing,3,5,in_progress,Security Analyst
+R003,training,Annual phishing refresher due,2,3,mitigated,Training Lead
+R004,backup,Restore testing overdue,3,5,open,Infrastructure Lead
+R005,network,Guest network segmentation needs validation,3,4,in_progress,Network Engineer
