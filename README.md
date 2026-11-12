@@ -50,6 +50,3 @@ python -m unittest discover -s tests
 - No control mapping (for example HIPAA Security Rule safeguards or NIST) or due-date tracking yet.
 - Possible extensions: owner and due-date fields with overdue alerts, mapping findings to framework controls, and an HTML heat map of the matrix.
 
-## License
-
-MIT. See [LICENSE](LICENSE).
